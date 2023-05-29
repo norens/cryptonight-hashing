@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "https://github.com/MoneroOcean/node-cryptonight-hashing",
+      "/root"
+    ]
+  ],
+  "_from": "git://github.com/VanGrx/node-cryptonight-hashing.git",
+  "_id": "cryptonight-hashing@15.0.0",
+  "_inBundle": false,
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "",
+  "_location": "/cryptonight-hashing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "cryptonight-hashing@git://github.com/VanGrx/node-cryptonight-hashing.git",
+    "name": "cryptonight-hashing",
+    "escapedName": "cryptonight-hashing",
+    "rawSpec": "git://github.com/VanGrx/node-cryptonight-hashing.git",
+    "saveSpec": "git://github.com/VanGrx/node-cryptonight-hashing.git",
+    "fetchSpec": "git://github.com/VanGrx/node-cryptonight-hashing.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/VanGrx/node-cryptonight-hashing.git#1249bd890a9a929e2fa422550042fc83037a1544",
+  "_shasum": "862a2cccb0dd80a3f817af8b85cfbe4683247ce9",
+  "_shrinkwrap": null,
+  "_spec": "cryptonight-hashing@git://github.com/VanGrx/node-cryptonight-hashing.git",
+  "_where": "/home/lomax/Desktop/pool2",
+  "author": {
+    "name": "Multiple",
+    "email": "Check The Git Repo"
+  },
+  "bugs": {
+    "url": "https://github.com/MoneroOcean/node-cryptonight-hashing/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bindings": "*",
+    "nan": "^2.8.0"
+  },
+  "deprecated": false,
+  "description": "node-cryptonight-hashing ===============",
+  "devDependencies": {},
+  "gitHead": "27b01e39cafef5beb7e30c1df1684c9ffe90ad5c",
+  "gypfile": true,
+  "homepage": "https://github.com/MoneroOcean/node-cryptonight-hashing#readme",
+  "keywords": [
+    "bytecoin",
+    "cryptonight",
+    "cryptonote",
+    "forknote",
+    "monero"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "cryptonight-hashing",
+  "name": "cryptonight-hashing",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "15.0.0"
+}

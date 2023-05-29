@@ -1,0 +1,1 @@
+cmd_Release/cryptonight-hashing.node := ln -f "Release/obj.target/cryptonight-hashing.node" "Release/cryptonight-hashing.node" 2>/dev/null || (rm -rf "Release/cryptonight-hashing.node" && cp -af "Release/obj.target/cryptonight-hashing.node" "Release/cryptonight-hashing.node")
